@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 name: DPI Learning Community
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
