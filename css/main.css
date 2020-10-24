@@ -12,13 +12,15 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    color: #52999f;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #52999f;
 }
 a:hover {
     text-decoration: underline;
+    color: #f6947b;
 }
 h1 {
     font-size: 3em;
@@ -36,7 +38,7 @@ p {
     font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
 }
 footer {
-    border-top: 1px solid #7cc683;
+    border-top: 3px solid #7cc683;
     font-size: .8em;
     color: #52999f;
 }
