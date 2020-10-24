@@ -1,14 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-{% include meta_tags/base.html %}
-{% include externals/styling.html %}
-</head>
-<body>
-<div class="wrapper">
-{% include header.html %}
-{{ content }}
-</div>
-{% include externals/scripting.html %}
-</body>
-</html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/cohort">Cohort</a></li>
+            	<li><a href="/data-viz">Data Viz</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:emckenna@jhu.edu">email</a></li>
+	        		<li><a href="https://github.com/democracy-power-innovation">github.com/democracy-power-innovation</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
