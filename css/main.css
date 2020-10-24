@@ -7,6 +7,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #52999f;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -35,18 +36,20 @@ p {
     font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #7cc683;
     font-size: .8em;
-    color: #2d6e8e;
+    color: #52999f;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
     font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    color: #7cc683;
 }
 
 ul.posts li {
     list-style: none;
     font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    color: #7cc683;
 }
