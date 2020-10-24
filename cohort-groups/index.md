@@ -2,5 +2,5 @@
 layout: default
 title: Cohort groups
 ---
-## DPI
-- [X] TEST TEST
+## Cohort groups
+Background about the organizations and practitioners in the cohort TK here.
