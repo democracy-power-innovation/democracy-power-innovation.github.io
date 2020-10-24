@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-## Background
+## About
 DPI, which stands for Democracy, Power, and Innovation, is a new multi-year learning community and research cohort of 14 base-building organizations. It’s funded by a collaborative grantmaking initiative led by the Ford Foundation, the Rockefeller Family Fund, and 2020 Vision Ventures.
 
 The goal is to advance the practice and strategy of organizing, civic engagement, and power building over the next three years by: 
