@@ -1,2 +1,2 @@
-# democracy-power-innovation.github.io
-DPI Data Learning Community
+# DPI Data Learning Community Website
+
