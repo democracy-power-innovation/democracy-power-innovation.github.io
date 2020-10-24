@@ -3,4 +3,4 @@ layout: default
 title: About
 ---
 ## DPI
-- [ ] TEST
+- [X] TEST
