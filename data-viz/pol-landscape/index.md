@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Political landscape
+title: Pol landscape
 ---
 
-## Testing nesting pages
+# Testing nesting pages
 
 [ ] Our best visualizations with unused power
