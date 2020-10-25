@@ -51,11 +51,11 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
     font-family:'Heebo', 'Helvetica', 'Sans-Serif';
-    color: #7cc683;
+    color: #000000;
 }
 
 ul.posts li {
     list-style: none;
     font-family:'Heebo', 'Helvetica', 'Sans-Serif';
-    color: #7cc683;
+    color: #000000;
 }
