@@ -44,12 +44,12 @@ footer {
 }
 
 ul li { font-family: 'Libre Franklin', Sans-Serif;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.1em;
+    font-size: 1em;
     font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     color: #2d6e8e;;
 }
