@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,18 +24,18 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
 }
 h2 {
     font-size: 2em;
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
     color: #2d6e8e;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
 }
 footer {
     border-top: 3px solid #7cc683;
