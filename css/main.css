@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,19 +24,19 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     color: #2d6e8e;
 }
 h2 {
     font-size: 1em;
-    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     color: #2d6e8e;
 }
 p {
     font-size: .9em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
 }
 footer {
     border-top: 3px solid #7cc683;
@@ -44,19 +44,19 @@ footer {
     color: #52999f;
 }
 
-ul li { font-family: Heebo, Sans-Serif;
+ul li { font-family: 'Libre Franklin', Sans-Serif;
     font-size: .9em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: .9em;
-    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     color: #2d6e8e;;
 }
 
 ul.posts li {
     list-style: none;
-    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     color: #7cc683;
 }
