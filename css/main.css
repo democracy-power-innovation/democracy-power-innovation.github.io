@@ -43,15 +43,19 @@ footer {
     color: #52999f;
 }
 
+ul li { font-family: Heebo, Sans-Serif;
+    font-size: 1.5em;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
     color: #7cc683;
 }
 
 ul.posts li {
     list-style: none;
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Heebo', 'Helvetica', 'Sans-Serif';
     color: #7cc683;
 }
