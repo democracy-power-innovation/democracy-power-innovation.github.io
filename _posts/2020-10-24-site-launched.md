@@ -4,4 +4,4 @@ title: "DPI Learning Community Site Launch"
 date: 2020-10-24
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+The idea is that this can be a private online repository for a "best of" and editorialized run down of DPI data analyses (to try to move us from ad hoc to shared learning!)
