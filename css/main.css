@@ -37,7 +37,7 @@ h2 {
 p {
     font-size: 1em;
     line-height: 1.2em;
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
 }
 footer {
     border-top: 3px solid #7cc683;
@@ -47,7 +47,7 @@ footer {
     
 }
 
-ul li { font-family: 'Quicksand', Sans-Serif;
+ul li { font-family: 'Libre Franklin', Sans-Serif;
     font-size: 1em;
 }
 
@@ -60,6 +60,6 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    font-family:'Quicksand', 'Helvetica', 'Sans-Serif';
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     color: #7cc683;
 }
