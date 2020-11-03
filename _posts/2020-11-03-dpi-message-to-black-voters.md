@@ -3,9 +3,9 @@ layout: post
 title: "DPI Message to Black Voters"
 date: 2020-11-03
 ---
-### From: The Democracy and Power Innovation Fund
-### For immediate release: November 3, 2020
-### Contact: Margot Friedman  at mfriedman@dupontcirclecommunications.com or 202-330-9295
+## From: The Democracy and Power Innovation Fund
+## For immediate release: November 3, 2020
+## Contact: Margot Friedman  at mfriedman@dupontcirclecommunications.com or 202-330-9295
 
 A Message to Black Voters
 
@@ -29,7 +29,7 @@ Black turnout in Florida is already at 87 percent of 2016 total turnout -- 33.7 
 
 “We have worked too hard for the opportunity to vote, and overcome obstacles like Covid-19 to vote, to let anyone undermine the legitimacy of this election. We will protest, apply pressure to elected officials, and guard against any effort to tamper with this election,” said Katrina Gamble, PhD, principal of Sojourn Strategies. “Black voters understand the power of our vote and what’s on the line in this election and Black people have turned out in record numbers to stand up for our community and to make sure our voices are heard, and we will continue to stand together to make sure every vote is counted.” 
 
-### Schedules permitting, the following people are available for further comment:
+## Schedules permitting, the following people are available for further comment:
 
 Nse Ufot, Director of New Georgia Project
 
