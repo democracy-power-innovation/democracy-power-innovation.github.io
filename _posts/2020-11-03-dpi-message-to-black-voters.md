@@ -4,8 +4,8 @@ title: "DPI Message to Black Voters"
 date: 2020-11-03
 ---
 ## From: The Democracy and Power Innovation Fund
-## For immediate release: November 3, 2020
-## Contact: Margot Friedman  at mfriedman@dupontcirclecommunications.com or 202-330-9295
+*For immediate release: November 3, 2020*
+*Contact: Margot Friedman  at mfriedman@dupontcirclecommunications.com or 202-330-9295*
 
 A Message to Black Voters
 
