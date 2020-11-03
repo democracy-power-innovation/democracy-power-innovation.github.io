@@ -4,10 +4,10 @@ title: "DPI Message to Black Voters"
 date: 2020-11-03
 ---
 ## From: The Democracy and Power Innovation Fund
-*For immediate release: November 3, 2020*
+*For immediate release: November 3, 2020*<br/>
 *Contact: Margot Friedman  at mfriedman@dupontcirclecommunications.com or 202-330-9295*
 
-A Message to Black Voters
+**A Message to Black Voters**
 
 One of the powerful stories so far this election season is that Black voters are showing up and casting ballots in record numbers in key battleground states, potentially making the difference in electoral outcomes up and down the ballot.  
 
