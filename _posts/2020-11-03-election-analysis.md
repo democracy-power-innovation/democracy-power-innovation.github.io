@@ -1,1 +1,10 @@
+---
+layout: post
+title: "DPI Election Analysis 2020"
+date: 2020-11-03
+---
+
+## Post-Election Analysis from the DPI Data Team
+
+<iframe src="https://slides.com/lizmckenna/dpi-post-election-reportingmap-of-dpi-states-1-color-for-mw-2-for-others/embed?token=R3FIAjI8" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
