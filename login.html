@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="index.js"></script>
 </head>
+
 <body>
-<script>
+  <script>
     function logIn() {
       event.preventDefault()
       let form = document.getElementById('loginForm');
       let email = form.elements['email'].value;
       let Password = form.elements['psw'].value;
       for (let i = 0; i < users.length; i++) {
-        if(users[i].email === email  && users[i].password === Password){
-          localStorage.setItem("email",  email) 
+        if (users[i].email === email && users[i].password === Password) {
+          localStorage.setItem("email", email)
           window.location.replace('/')
         }
         else {
@@ -25,27 +27,28 @@
       }
     }
 
-</script>
+  </script>
   <nav>
     <ul>
-        <li><a href="/logedOutAbout.html">About</a></li>
+      <li><a href="/logedOutAbout.html">About</a></li>
     </ul>
   </nav>
   <div class="modal-content">
-      <form id='loginForm' class="form-container" onsubmit="logIn()">
-        <div class="center"><img src="/images/dpi-logo.jpg" alt=""></div>
-        <div class="center">
-          <h2>Login</h2>
-        </div>
-        <input type="text" placeholder="Enter Email" name="email" required>
-        <input type="password" placeholder="Enter Password" name="psw" required>
-        <div class="center">
-          <button type="submit" class="btn">Login</button>
-        </div>
-        <div class="center">
-          <a class="Forgot-password" href="forgotPassword.html"> Forgot Password? </a>
-        </div>
-      </form>
+    <form id='loginForm' class="form-container" onsubmit="logIn()">
+      <div class="center"><img src="/images/dpi-logo.jpg" alt=""></div>
+      <div class="center">
+        <h2>Login</h2>
+      </div>
+      <input type="text" placeholder="Enter Email" name="email" required>
+      <input type="password" placeholder="Enter Password" name="psw" required>
+      <div class="center">
+        <button type="submit" class="btn">Login</button>
+      </div>
+      <div class="center">
+        <a class="Forgot-password" href="forgotPassword.html"> Forgot Password? </a>
+      </div>
+    </form>
   </div>
 </body>
+
 </html>

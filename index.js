@@ -1,6 +1,6 @@
-var users= [
+const users = [
   {
-    "email": "dohaali415@gmail.com",
-    "password":"ae5gFIFa"
+    "email": "elizabethmck@gmail.com",
+    "password": "ae5gFIFa"
   }
-] 
+];
