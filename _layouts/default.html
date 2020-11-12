@@ -8,6 +8,11 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
+		<script>
+			if (!localStorage.getItem("email")) {
+				window.location.replace('login.html')
+			}
+		</script>
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>

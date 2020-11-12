@@ -63,3 +63,122 @@ ul.posts li {
     font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
     color: #7cc683;
 }
+
+body {font-family: 'Quicksand', 'Helvetica', 'Sans-Serif';}
+
+.view-login {
+  color: #2d6e8e;
+}
+.view-login:hover {
+  color: #f6947b;
+  cursor: pointer;
+}
+.modal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  margin: auto;
+  width: 50%;
+}
+.form-container {
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 90%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  border-bottom: 1px solid #bfbfbf;
+  font-family: 'Quicksand', 'Helvetica', 'Sans-Serif';
+}
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  outline: none;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.center h2 {
+  font-family: 'Libre Franklin', Sans-Serif
+}
+.center img {
+  width: 35%;
+  margin-bottom: 10%;
+}
+.btn {
+  background-color: #7cc683;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  min-width: 40%;
+  font-size: 0.9em;
+  outline: none; 
+}
+.btn:hover {
+  background-color: #42ce4f;
+
+}
+.form-container h1 {
+  color: #7cc683;
+  margin: auto;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Quicksand', 'Helvetica', 'Sans-Serif';
+  margin-bottom: 20px;
+}
+.Forgot-password {
+    margin-top: 22px;
+    padding-bottom: 1px;
+    color: #2d6e8e;
+}
+.Forgot-password:hover {
+    color: #f6947b;
+}
+.back {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  color: #2d6e8e;
+  font-family: 'Quicksand', 'Helvetica', 'Sans-Serif';
+}
+.back:hover {
+  color: #f6947b;
+  cursor: pointer;
+}
+.Forgot-Pass-content {
+    margin: auto;
+    width: 50%;
+}
+.Forgot-Pass-container h1 {
+    color: #7cc683;
+    margin: auto;
+    margin-bottom: 28px;
+    font-size: 2em;
+    font-weight: bold;
+    font-family:'Libre Franklin', 'Helvetica', 'Sans-Serif';
+  }
+
+  .Forgot-Pass-container input[type=text] {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    border-bottom: 1px solid #bfbfbf;
+    font-family: 'Quicksand', 'Helvetica', 'Sans-Serif';
+  }
