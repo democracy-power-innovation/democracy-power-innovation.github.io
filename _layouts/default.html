@@ -1,40 +1,54 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>{{ page.title }}</title>
+    <!-- link to main stylesheet -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+  </head>
 
-<head>
-	<title>{{ page.title }}</title>
-	<!-- link to main stylesheet -->
-	<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-</head>
-
-<body>
-	<script>
-		if (!localStorage.getItem("email")) {
-			window.location.replace('login.html')
-		}
-	</script>
-	<nav>
-		<ul>
-			<li><a href="/">Home</a></li>
-			<li><a href="/about">About</a></li>
-			<li><a href="/cohort-groups">Cohort</a></li>
-			<li><a href="/data-viz">Data Viz</a></li>
-			<li><a href="/blog">Blog</a></li>
-		</ul>
-	</nav>
-	<div class="container">
-
-		{{ content }}
-
-	</div><!-- /.container -->
-	<footer>
-		<ul>
-			<li><a href="mailto:emckenna@jhu.edu">email</a></li>
-			<li><a href="https://github.com/democracy-power-innovation">dpi.community</a></li>
-		</ul>
-	</footer>
-</body>
-
+  <body>
+    <script>
+      if (!localStorage.getItem("email")) {
+        window.location.replace("login.html");
+      }
+      function logout() {
+        localStorage.removeItem("email");
+      }
+    </script>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/cohort-groups">Cohort</a></li>
+        <li><a href="/data-viz">Data Viz</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li
+          style="position: absolute; right: 0; width: 20%; margin: auto"
+          onclick="logout()"
+        >
+          <a href="/login.html">Logout</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="container">{{ content }}</div>
+    <!-- /.container -->
+    <footer>
+      <ul>
+        <li><a href="mailto:emckenna@jhu.edu">email</a></li>
+        <li>
+          <a href="https://github.com/democracy-power-innovation"
+            >dpi.community</a
+          >
+        </li>
+      </ul>
+    </footer>
+  </body>
 </html>
