@@ -19,16 +19,18 @@
       function logIn() {
         event.preventDefault();
         let form = document.getElementById("loginForm");
-        let email = form.elements["email"].value;
-        let Password = form.elements["psw"].value;
-        for (let i = 0; i < users.length; i++) {
-          if (users[i].email === email && users[i].password === Password) {
-            localStorage.setItem("email", email);
-            window.location.replace("/");
-            break;
-          } else {
-            alert("Incorrect Email or Password.");
-          }
+        let inputEmail = form.elements["email"].value;
+        let inputPassword = form.elements["psw"].value;
+        const isUser =
+          users.filter(
+            ({ email, password }) =>
+              email === inputEmail && password === inputPassword
+          ).length !== 0;
+        if (isUser) {
+          localStorage.setItem("email", inputEmail);
+          window.location.replace("/");
+        } else {
+          alert("Incorrect Email or Password.");
         }
       }
     </script>
