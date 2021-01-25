@@ -19,17 +19,14 @@ When we launched the learning cohort we set two broad questions of inquiry for t
 These are fundamental questions groups who are building power by organizing bases of people have to answer every day. <a href="/data-viz/organizing/index.html">See more here.</a>
 
 ---
-
 ## <a href="/data-viz/pol-landscape/index.html"> Political landscape</a>
-One of our priorities was to support the organizations in co-creating questions and analyses that are most helpful to their work. We worked with a number of groups who were interested in mapping the political terraint—understanding where they had membership in relation to their political targets, where they could work to expand or turn out their base, and how the voter demographics in their state were changing over time.<a href="/data-viz/pol-landscape/index.html">See more here.</a>
+One of our priorities was to support DPI organizations in co-creating questions and analyses that are most helpful to their immediate work. To this end, we helped a number of groups who were interested in mapping the political terrain in their state to better understand the geographic dispersion of their base (or their potential base). Other groups prioritized analyses of the voter demographics in their state, and how those were were changing over time. <a href="/data-viz/pol-landscape/index.html">See more here.</a>
 
 ---
-
 ## <a href="/data-viz/power/index.html"> Power & impact </a>
-A third area of inquiry we are exploring is how to measure program impact in power arenas in the electoral context and beyond. We are partnering with the <a href="https://snfagora.jhu.edu/project/p3-lab/">P3 Lab at Johns Hopkins University</a> to develop new research methods and metrics that help make visible durable policy agenda change, narrative shifts, and elite network shifts over time. In 2021 we will also examine which member experiences increase their own sense of agency and power.<a href="/data-viz/power/index.html">See more here.</a>
+A third area of inquiry we are exploring is how to measure program impact in power arenas in the electoral context and beyond. We work in close partnership with the <a href="https://snfagora.jhu.edu/project/p3-lab/">P3 Lab at Johns Hopkins University</a> to develop new research methods and metrics that help make visible durable policy agenda change, narrative shifts, and elite network shifts over time. In 2021 we will also examine which member experiences increase their own sense of agency and power. <a href="/data-viz/power/index.html">See more here.</a>
 
 ---
-
 ## <a href="/data-viz/research/index.html"> Research</a>
 In 2020, DPI helped set up and fund 20 research projects and summary memos<a href="/data-viz/research/index.html">Read more here.</a>
 
