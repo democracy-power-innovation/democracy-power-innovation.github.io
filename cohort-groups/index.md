@@ -3,7 +3,7 @@ layout: default
 title: Cohort groups
 ---
 ## Cohort groups
-Background about the organizations and practitioners in the cohort TK here.
+In 2021, we launched the DPI Learning cohort with 14 base-building groups across the United States.
 
 - Color of Change
 - Detroit Action
@@ -19,3 +19,9 @@ Background about the organizations and practitioners in the cohort TK here.
 - Voces de la Frontera
 - VOTE
 - We the People
+
+<b>DPI Learning Community</b>
+<center>
+<img src="/images/groups.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:650px;height:500px;style=padding:5px">
+</center>
+<i>Beneath each image, we add a little bit of text that describes what the visualization says and what the major takeaways are. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </i>
