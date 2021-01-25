@@ -17,7 +17,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ## <a href="/data-viz/organizing/index.html"> Organizing & program analyses </a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <a href="/data-viz/pol-landscape/index.html">Read more about organizing programs here...</a>
+When we launched the learning cohort we set two broad questions of inquiry for the first year:
+
+- Who are our people?
+- What are they doing?
+
+These are fundamental questions groups who are building power by organizing bases of people have to answer every day.</a>
 
 ---
 
