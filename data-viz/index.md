@@ -2,9 +2,12 @@
 layout: default
 title: Data viz
 ---
-# Landing page for our data visualizations
+# Background
+Organizing is fundamental to power-building and the health of our democracy. There is, however, a field-wide lack of data and analysis of most organizations' program activity—the who and the what of the work. Much of the investment in data and analytics in the last decade has focused on technology alone (not people), usually with an elections-first rather than a power-first or people-first approach.
 
-Background about the types of analyses we do here...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The result is an array of alpha-tested tools for voter contact, and most of these new tools do not even consistently sync with the voter file. As a result, the organizational inputs that lead to people power remain invisible. A self-fulfilling prophecy, the invisibility of the work helps maintain the status quo. When you can't see it, you can't invest in or systemtatically learn from it. In addition to the huge potential for internal strategic learning, without this body of evidence that speaks to the “how” of organizing for power, we cede the narrative to traditional explanations: money, voter-targeting models, inexorable demographic shifts, and mainstream media, which stand in and take credit for major progressive victories.
+
+The DPI Data Team and Learning Cohort exists to help start to fill this gap. We do regular biweekly one-to-one calls with each organization's data manager to generate ideas for analysis, and through the analysis to teach the data staff how to organize data, visualize it for learning and coding (primarily in R and Python). This team also leads a once a month call with data directors and staff from the learning cohort groups. Our long-term goal is to build a cohort of data scientists in organizing and democracy building groups who can generate learning & analysis for the movement and advance our flipping the formula agenda.
 
 ---
 
