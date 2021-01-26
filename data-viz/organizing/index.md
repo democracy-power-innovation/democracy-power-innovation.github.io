@@ -22,7 +22,7 @@ The first project we did with the learning cohort groups this summer was to help
 <center>
 <img src="/images/lucha-congreso.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:650px;height:500px;style=padding:5px">
 </center>
-<i>This is a chart from LUCHA that’s similar to most other groups showing that as they’re building their member lists through event sign ups they’re not collecting data about race. The majority of groups don’t yet have race/gender/age data about their members. Poor matching to the voter file (12-25% rate earlier this year) meant they couldn’t go that route to get info either. And Every Action has such a ridiculously long set of possible codes (something like 15 for gender alone), that is off putting for data collection. Through the data managers’ monthly cohort we’ve coached people on setting up event signup forms to include the basic demographic info they’d like to collect.</i>
+<i>This is a chart from LUCHA that’s similar to most other groups' membership analysies. It shows that as they’re building their member lists through event sign-ups, they’re not collecting data about race. The majority of groups don’t yet have race/gender/age data about their members. Poor matching to the voter file (12-25% rate earlier this year) meant they couldn’t go that route to filll in missing demographic information. And Every Action has an extensive list of possible codes (something like 15 for gender alone), which is off-putting for data collection. Through the data managers’ monthly cohort meetings, we’ve coached people on setting up event sign-up forms to include the basic demographic info they’d like to collect.</i>
 
 ### LUCHA | Matching membership to the VAN
 <b>Age and race of successful Voter File matches</b>
