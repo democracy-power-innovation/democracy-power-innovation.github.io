@@ -14,9 +14,7 @@ A third area of inquiry we are exploring is how to measure program impact in pow
 </center>
 This analysis shows that Faith in Action's decision to target lower propensity voters in the Nevada general election paid off. Based on their modeled scores, many of the voters with scores of less than 50 who FIA contacted (quadrant 1) were not expected to turn out (quadrant 2). After the election, an analysis of who was contacted and actually turned out showed that these voters who are almost always overlooked by other campaigns did turn out at higher rates, overperforming their expected turnout by several thousand votes.
 
----
-Note: The following three analyses are drawn from <i> Prisms of the People: Power and Organizing in 21st Century America </i> by Hahrie Han, Elizabeth McKenna, and Michelle Oyakawa.
----
+### Note: The following three analyses are drawn from <i> Prisms of the People: Power and Organizing in 21st Century America </i> by Hahrie Han, Elizabeth McKenna, and Michelle Oyakawa.
 
 
 # Shifting policy agendas
@@ -49,8 +47,8 @@ This network analysis is also based on a survey, but in this case the relevant e
 --
 # Changing narratives
 ## Faith in Minnesota | Shifting the discourse of power targets
-###Change in gubernatorial candidates' discourse
+### Change in gubernatorial candidates' discourse
 <center>
-<img src="/images/mn_twitter.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:450px;height:400px;style=padding:5px">
+<img src="/images/mn_twitter.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:450px;height:350px;style=padding:5px">
 </center>
 The underlying data for this graph is web-scraped Twitter feeds of Democratic gubernatorial candidates Erin Murphy and Tim Walz, two power targets ISAIAH sought to influence in their 2018 faith delegate campaign. Tracking the two candidates' Twitter feeds allowed us to examine the extent to which they adopted the platform and organizing language of ISAIAH (determined by compiling a database of the word usage in ISAIAH's faith delegate platform and other organizational materials). The score indicates the number of times the candidate used one of ISAIAH's most-used 25 words, and shows a noticable increase during the campaign period when the faith delegates put pressure on the candidates, seeking their support for ISAIAH's platform. Walz and Murphy's baseline narratives were not consistent with the organization's race and class narrative—that changed in June during the DFL state convention.
