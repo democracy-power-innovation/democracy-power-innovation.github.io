@@ -45,14 +45,14 @@ The first project we did with the learning cohort groups this summer was to help
 ### Ohio Organizing Collaborative | Member activity dashboard
 <b>Event activity of volunteer leaders by organizer</b>
 <center>
-<img src="/images/ooc-phase4.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:650px;height:500px;style=padding:5px">
+<img src="/images/ooc-phase4.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:600px;height:400px;style=padding:5px">
 </center>
 <i>This dashboard captures event data from the first three weeks of October as entered by organizers. The value of this dashboard is that it was built from Google Sheet data, which was easy for most organizers to use daily. Tianyi taught Derrick, the OOC data manager, to run this report weekly for use in organizer staff meetings. It helped the organizers’ managers see where each person was spending their recruitment time, and where they needed to grow. It also helped them see which organizers needed to do more data entry.</i>
 
 ### Ohio Organizing Collaborative | Member capacity
 <b>Bubble chart of volunteers weighted by actions taken</b>
 <center>
-<img src="/images/ooc-bubbleplot.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:650px;height:500px;style=padding:5px">
+<img src="/images/ooc-bubbleplot.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:400px;height:600px;style=padding:5px">
 </center>
 <i>This is another visualization of similar data, but instead of using the organizer as the analysis category, it weights individual members by the number of actions there were reported to have taken. Over time, the OOC saw more bubbles increase in size and turn from blue to orange to green as the number of actions members took increased throughout the election cycle.</i>
 
@@ -66,6 +66,6 @@ The first project we did with the learning cohort groups this summer was to help
 ### Detroit Action | Text banking activity
 <b>Snapshot of text program dashboard</b>
 <center>
-<img src="/images/detroit-action-texts.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:650px;height:500px;style=padding:5px">
+<img src="/images/detroit-action-texts.png" alt="HTML5 Icon" hspace="20" vspace="10" style="width:650px;height:650px;style=padding:5px">
 </center>
-<i>One of the things we worked on in 2020 is helping groups develop dashboards and quick data visualizations so they can see who’s doing well, whether their program is working as planned, and promote in program peer learning.</i>
+<i>One of the things we worked on in 2020 is helping groups develop dashboards and quick data visualizations like this one from Detroit Action so that they can see who’s doing well, whether their program is working as planned, and promote in program peer learning.</i>
