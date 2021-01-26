@@ -15,6 +15,7 @@ A third area of inquiry we are exploring is how to measure program impact in pow
 This analysis shows that Faith in Action's decision to target lower propensity voters in the Nevada general election paid off. Based on their modeled scores, many of the voters with scores of less than 50 who FIA contacted (quadrant 1) were not expected to turn out (quadrant 2). After the election, an analysis of who was contacted and actually turned out showed that these voters who are almost always overlooked by other campaigns did turn out at higher rates, overperforming their expected turnout by several thousand votes.
 
 ---
+<b> The following three analyses are drawn from <i> Prisms of the People: Power and Organizing in 21st Century America </i> by Hahrie Han, Elizabeth McKenna, and Michelle Oyakawa.
 
 # Shifting policy agendas
 
