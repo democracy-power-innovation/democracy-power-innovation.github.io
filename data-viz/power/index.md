@@ -3,7 +3,7 @@ layout: default
 title: Power & impact
 ---
 # Power & impact
-A third area of inquiry we are exploring is how to measure program impact in power arenas beyond the electoral context. We are working in close partnership with the P3 Lab at Johns Hopkins University to develop new research methods and metrics that help make visible durable policy agenda changes, narrative shifts, and elite network dynamics. In 2021 we will also examine which member experiences increase their own sense of agency and power.
+A third area of inquiry we are exploring is how to measure program impact in power arenas beyond the electoral context. We are working in close partnership with the <a href="https://snfagora.jhu.edu/project/p3-lab/">P3 Lab at Johns Hopkins University</a> to develop new research methods and metrics that help make visible durable policy agenda changes, narrative shifts, and elite network dynamics. In 2021 we will also examine which member experiences increase their own sense of agency and power.
 
 # Electoral power
 
