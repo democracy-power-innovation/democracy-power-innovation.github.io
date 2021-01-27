@@ -3,7 +3,7 @@ layout: default
 title: Data viz
 ---
 # Background
-Organizing is fundamental to power-building and the health of our democracy. Unfortunately there is a field-wide lack of investment in the data and analysis capacity that can reveal the <i>who</i> and the <i>what</i> of the work of organizing. Most of the resources that have been directed to this space in the last decade has focused on technology (not people), and usually with an elections-first rather than a power-first or people-first approach.
+Organizing is fundamental to power-building and the health of our democracy. Unfortunately there is a field-wide lack of investment in the data and analysis capacity that can reveal the <i>who</i> and the <i>what</i> of the work of organizing. Most of the resources that have been directed to this space in the last decade have focused on technology (not people), and usually with an elections-first rather than a power-first or people-first approach.
 
 The result is an array of alpha-tested tech tools for voter contact, and most of these new tools do not even consistently sync with the voter file. As a result, the organizational inputs that lead to people power remain invisible. A self-fulfilling prophecy, the invisibility of the work helps maintain the status quo: you can't invest in or systematically learn from what you can't see.
 
