@@ -12,7 +12,7 @@ const users = [
     password: "ae5gFIFb",
   },
   {
-    email: "jfernandes@rfffund.org",
+    email: "jfernandes@rffund.org",
     password: "ae5gFIFy",
   },
   {
