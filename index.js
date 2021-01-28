@@ -16,7 +16,7 @@ const users = [
     password: "ae5gFIFy",
   },
   {
-    email: "hsong@rfffund.org",
+    email: "hsong@rffund.org",
     password: "ae5gFIFh",
   },
    {
