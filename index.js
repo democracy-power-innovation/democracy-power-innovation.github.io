@@ -20,6 +20,10 @@ const users = [
     password: "ae5gFIFh",
   },
    {
+    email: "info@hbmkstudio.com",
+    password: "ae5gFIFv",
+  },
+   {
     email: "E.Frey@fordfoundation.org",
     password: "ae5gFIFe",
   },
